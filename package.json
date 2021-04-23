@@ -1,0 +1,24 @@
+{
+  "name": "asgn-api",
+  "version": "1.0.0",
+  "description": "API to aggregate D2L grades ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewc97/asgn-api.git"
+  },
+  "author": "Andrew Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewc97/asgn-api/issues"
+  },
+  "homepage": "https://github.com/Andrewc97/asgn-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
